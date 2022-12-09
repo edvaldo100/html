@@ -2,3 +2,34 @@
     padding: 0px;
     margin: 0px;
 }
+
+body{
+    background-size: 100%;
+}
+
+header{
+background-color: rgba(70, 185, 50, 0.41);
+padding: 50px;
+text-align: center;
+font-weight: bold;
+font-size: 1.3em;
+}
+
+header h1 {
+    padding-bottom: 20px;
+}
+
+nav{
+    background-color: green;
+    padding:10px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+    
